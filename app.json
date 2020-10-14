@@ -1,0 +1,12 @@
+{
+  "name": "PappTwo",
+  "displayName": "PappTwo",
+  "expo": {
+    "name": "PappTwo",
+    "slug": "PappTwo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
