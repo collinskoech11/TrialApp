@@ -24,7 +24,11 @@
   "devDependencies": {
     "@babel/core": "~7.9.0",
     "babel-jest": "~25.2.6",
+    "babel-plugin-react-native-classname-to-style": "^1.2.2",
+    "babel-plugin-react-native-platform-specific-extensions": "^1.1.1",
     "jest": "~25.2.6",
+    "node-sass": "^4.14.1",
+    "react-native-sass-transformer": "^1.4.0",
     "react-test-renderer": "~16.13.1"
   },
   "jest": {
